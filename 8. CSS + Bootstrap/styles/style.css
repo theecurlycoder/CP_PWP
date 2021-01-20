@@ -1,0 +1,50 @@
+h1 {
+  color: aqua;
+  font-size: 75px;
+}
+
+a:visited {
+  color: black;
+}
+h1 a {
+  color: rebeccapurple;
+}
+
+body {
+  text-align: center;
+  background-color: lightpink;
+}
+
+h2 a:hover {
+  color: red;
+}
+
+ul {
+  text-align: justify;
+  color: cornflowerblue;
+}
+ul a {
+  color: orchid;
+  text-decoration: none;
+}
+
+ul a:hover {
+  color: crimson;
+}
+#bg-blue {
+  width: 300px;
+  height: 250px;
+  border-radius: 50px;
+  box-shadow: 5px 10px blue;
+  margin: 10px;
+}
+
+.abstract-bg {
+  border-radius: 20px;
+  border-color: aqua;
+  box-shadow: 13px 12px gray;
+}
+
+.abstract-bg:hover {
+  box-shadow: 10px 10px 15px 15px goldenrod;
+}

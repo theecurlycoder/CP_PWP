@@ -30,6 +30,9 @@ The Projects / Exercises in this Folder incl.
   * Landing/Sales Page
 
 8. CSS + Bootstrap
+  * Static Websites
+  * Landing Page + Lead Magnet
+
 
 9. Javascript Crash Course
 
